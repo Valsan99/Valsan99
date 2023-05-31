@@ -11,10 +11,6 @@
 
 - 📫 How to reach me **valeria.rodriguezn30@gmail.com**
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 <h3 align="left">Languages and Tools:</h3>
